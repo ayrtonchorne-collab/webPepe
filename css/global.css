@@ -1,0 +1,42 @@
+body{
+    background-color: #891C0F;
+    color: #FFD6D1;
+      font-size: x-large;
+
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+
+ 
+}
+
+a{
+    color: black;
+}
+
+h1, h2, article{
+    text-align: center;
+}
+
+h1, h2{
+    
+.archivo-black-regular 
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+h4{
+    text-align: left;
+}
+
+img{
+    text-align: center;
+}
+
+article{
+    margin: 50px;
+}
